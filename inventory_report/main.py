@@ -24,6 +24,5 @@ def main():
     type = arguments[2]
     file_extension = path.splitext(file)[1]
     importer = __choose_importer(file_extension)
-    inventory = InventoryRefactor(importer)
-    data = inventory.import_data(file, type)
+    data = InventoryRefactor(importer).import_data(file, type)
     print(data, end="")
