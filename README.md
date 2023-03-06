@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+# Trybe Project - Python Inventory Report
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
@@ -11,3 +11,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+Python project for generating reports for managing stock or storaging units. Data can be imported from CSV, JSON or XML formats.
+
+Done in March 2023.
